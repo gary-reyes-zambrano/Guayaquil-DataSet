@@ -9,5 +9,4 @@ Las ubicaciones en este conjunto de datos fueron recolectadas por smartphones co
 de tiempo promedio entre dos ubicaciones consecutivas de 5 segundos(*).
 
 El formato del archivo de cada trayectoria de movilidad es el siguiente: Cada registro 
-contiene id_trayectoria, latitud, longitud, tiempo, nombre de usuario, email y tiempo, 
-tipo de transporte.
+contiene id, latitud, longitud, usuario, velocidad, id trayectoria, tiempo, transporte y geom (geometria).
